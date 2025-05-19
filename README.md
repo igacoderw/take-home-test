@@ -1,7 +1,7 @@
-# IgaCode Developer Take-Home Test - Book Management System
+# Igacode developer take-home test: Book Management System
 
 ## Overview
-Thank you for your interest in a developer position at Igacode. This take-home test is designed to evaluate your frontend/backend development skills, specifically your ability to implement features, create UIs, and create and integrate API endpoints.
+Thank you for your interest in a developer position at Igacode. This take-home test is designed to evaluate your frontend/backend development skills, specifically your ability to implement features, create UIs, and build and integrate API endpoints.
 
 ## Task Description
 Build an application for a **Book Management System** that allows users to view, borrow, and return books. The system should help users track when books are due to be returned.
@@ -35,8 +35,7 @@ Build an application for a **Book Management System** that allows users to view,
 
 ### Technical Requirements
 1. **Frontend Implementation**
-   - Use React or Angular (Vue.js is also acceptable if you have strong experience with it)
-   - Implement responsive design (mobile, tablet, and desktop)
+   - Use ReactJS(preferable) or any other framework you have strong experience with
    - Create a clean, intuitive UI with good user experience
 
 2. **API Integration**
@@ -45,7 +44,7 @@ Build an application for a **Book Management System** that allows users to view,
    - Implement proper error handling and loading states
 
 3. **State Management**
-   - Use appropriate state management (Context API, Redux, MobX, etc.)
+   - Use appropriate state management (Redux, React Query, etc.)
    - Ensure proper data flow across components
 
 ### Bonus Features (Optional)
@@ -75,7 +74,7 @@ GET /api/users/current/books - Get user's borrowed books
 
 2. **Application**
    - Deployed version of your application(GitHub Pages, Netlify, Vercel, etc.)
-   - If deployment is not possible, provide a recording(Loom, ) screenshots of the application
+   - If deployment is not possible, provide a recording(Loom, Quicktime, ...) of the application
 
 3. **Documentation**
    - Component structure
@@ -87,7 +86,7 @@ GET /api/users/current/books - Get user's borrowed books
 Your submission will be evaluated based on:
 
 1. **Code Quality**
-   - Clean, well-structured, and documented code
+   - Clean and documented code
    - Proper use of components, hooks, and other framework features
    - Adherence to best practices
 
